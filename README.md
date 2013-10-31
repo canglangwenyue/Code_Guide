@@ -42,6 +42,12 @@ HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/ht
 
 ---------------------------------
 
+Ruby coding style guide [(en)](https://github.com/bbatsov/ruby-style-guide) / [(zh-cn)](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
+
+Rails coding style guide [(en)](https://github.com/bbatsov/rails-style-guide) / [(zh-cn)](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
+
+---------------------------------
+
 [Markdown语法说明 (zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/Markdown%E8%AF%AD%E6%B3%95%E8%AF%B4%E6%98%8E.md)
 
 ---------------------------------
