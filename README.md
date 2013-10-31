@@ -9,11 +9,11 @@
 
 [Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 
-HTML/CSS Style Guide : [web en](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) / [markdown zh-cn](https://github.com/Suxiaogang/Code_Guide/blob/master/google-html-css-style-guide.md)
+HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) / [zh-cn (.md)](https://github.com/Suxiaogang/Code_Guide/blob/master/google-html-css-style-guide.md)
 
 [JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
-[JavaScript Style Guide(zh-cn)](http://alloyteam.github.io/JX/doc/specification/google-javascript.xml)(via Tencent AlloyTeam)
+[JavaScript Style Guide(zh-cn)](http://alloyteam.github.io/JX/doc/specification/google-javascript.xml) (via Tencent AlloyTeam)
 
 [Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
 
