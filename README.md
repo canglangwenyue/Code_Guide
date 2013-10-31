@@ -12,11 +12,11 @@
 
 [Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 
-HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) / [zh-cn (.md)](https://github.com/Suxiaogang/Code_Guide/blob/master/google-html-css-style-guide.md)
+HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) / [zh-cn](https://github.com/Suxiaogang/Code_Guide/blob/master/google-html-css-style-guide.md)
 
 [JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
-[JavaScript Style Guide(zh-cn)](http://alloyteam.github.io/JX/doc/specification/google-javascript.xml) (via Tencent AlloyTeam)
+[JavaScript Style Guide (zh-cn)](http://alloyteam.github.io/JX/doc/specification/google-javascript.xml) (via Tencent AlloyTeam)
 
 [Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
 
@@ -42,9 +42,9 @@ HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/ht
 
 ---------------------------------
 
-Ruby coding style guide [(en)](https://github.com/bbatsov/ruby-style-guide) / [(zh-cn)](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
+Ruby coding style guide [en](https://github.com/bbatsov/ruby-style-guide) / [zh-cn](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 
-Rails coding style guide [(en)](https://github.com/bbatsov/rails-style-guide) / [(zh-cn)](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
+Rails coding style guide [en](https://github.com/bbatsov/rails-style-guide) / [zh-cn](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 
 ---------------------------------
 
@@ -52,7 +52,7 @@ Rails coding style guide [(en)](https://github.com/bbatsov/rails-style-guide) / 
 
 ---------------------------------
 
-[WordPress 代码规范 (zh-cn)](http://codex.wordpress.org/zh-cn:WordPress_%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83) (Languages: [English](http://codex.wordpress.org/WordPress_Coding_Standards) • [日本語](http://wpdocs.sourceforge.jp/WordPress_%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%9F%BA%E6%BA%96) • [Português do Brasil](http://codex.wordpress.org/pt-br:Padroes_de_Codificacao_do_WordPress))
+WordPress 代码规范 (Languages: [English](http://codex.wordpress.org/WordPress_Coding_Standards) • [日本語](http://wpdocs.sourceforge.jp/WordPress_%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%9F%BA%E6%BA%96) • [Português do Brasil](http://codex.wordpress.org/pt-br:Padroes_de_Codificacao_do_WordPress) • [简体中文](http://codex.wordpress.org/zh-cn:WordPress_%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83))
 
 [Linux kernel coding style](http://lxr.linux.no/linux/Documentation/CodingStyle)
 
