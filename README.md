@@ -9,7 +9,7 @@
 
 [Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 
-HTML/CSS Style Guide[web(xml)](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)/[markdown](https://github.com/Suxiaogang/Code_Guide/blob/master/google-html-css-style-guide.md)
+HTML/CSS Style Guide : [web en](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) / [markdown zh-cn](https://github.com/Suxiaogang/Code_Guide/blob/master/google-html-css-style-guide.md)
 
 [JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
