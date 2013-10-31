@@ -14,7 +14,8 @@ HTML/CSS Style Guide (http://google-styleguide.googlecode.com/svn/trunk/htmlcssg
 /[markdown (https://github.com/Suxiaogang/Code_Guide/blob/master/google-html-css-style-guide.md)
 
 JavaScript Style Guide (http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-[JavaScript Style Guide(zh-cn)](http://alloyteam.github.io/JX/doc/specification/google-javascript.xml) (via Tencent AlloyTeam)
+
+[JavaScript Style Guide(zh-cn)](http://alloyteam.github.io/JX/doc/specification/google-javascript.xml)(via Tencent AlloyTeam)
 
 Common Lisp]Style Guide (http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
 
@@ -25,6 +26,10 @@ Common Lisp]Style Guide (http://google-styleguide.googlecode.com/svn/trunk/lispg
 -------------------------------------------------------
 
 [CodePro Audit Rule Set](https://developers.google.com/java-dev-tools/codepro/doc/features/audit/ElementsOfJavaStyle)
+
+-------------------------------------------------------
+
+[豆瓣CSS规范(zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/%E8%B1%86%E7%93%A3CSS%E8%A7%84%E8%8C%83.md)
 
 -------------------------------------------------------
 
