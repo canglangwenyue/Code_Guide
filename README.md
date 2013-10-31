@@ -1,12 +1,20 @@
 #[google-styleguide](https://code.google.com/p/google-styleguide/)
-[原文](https://github.com/csswizardry/CSS-Guidelines)
+
+
 [C++] Style Guide(http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+
 [Objective-C] Style Guide(http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
+
 [Python] Style Guide(http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+
 [Shell] Style Guide(http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
+
 [HTML/CSS] Style Guide(http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+
 /[markdown](https://github.com/Suxiaogang/Code_Guide/blob/master/google-html-css-style-guide.md)
+
 [JavaScript] Style Guide(http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+
 [Common Lisp] Style Guide(http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
 
 
