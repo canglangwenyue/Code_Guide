@@ -27,19 +27,23 @@ HTML/CSS Style Guide : [web en](http://google-styleguide.googlecode.com/svn/trun
 
 ---------------------------------
 
-[通用 CSS 笔记、建议与指导(zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/%E9%80%9A%E7%94%A8%20CSS%20%E7%AC%94%E8%AE%B0%E3%80%81%E5%BB%BA%E8%AE%AE%E4%B8%8E%E6%8C%87%E5%AF%BC.md)
+[通用 CSS 笔记、建议与指导 (zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/%E9%80%9A%E7%94%A8%20CSS%20%E7%AC%94%E8%AE%B0%E3%80%81%E5%BB%BA%E8%AE%AE%E4%B8%8E%E6%8C%87%E5%AF%BC.md)
 
 ---------------------------------
 
-[豆瓣CSS规范(zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/%E8%B1%86%E7%93%A3CSS%E8%A7%84%E8%8C%83.md)
+[豆瓣CSS规范 (zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/%E8%B1%86%E7%93%A3CSS%E8%A7%84%E8%8C%83.md)
 
 ---------------------------------
 
-[Tencent AlloyTeam 规范(zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/Tencent%20AlloyTeam%20%E8%A7%84%E8%8C%83.md)
+[Tencent AlloyTeam 规范 (zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/Tencent%20AlloyTeam%20%E8%A7%84%E8%8C%83.md)
 
 ---------------------------------
 
-[WordPress 代码规范(zh-cn)](http://codex.wordpress.org/zh-cn:WordPress_%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83) (Languages: [English](http://codex.wordpress.org/WordPress_Coding_Standards) • [日本語](http://wpdocs.sourceforge.jp/WordPress_%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%9F%BA%E6%BA%96) • [Português do Brasil](http://codex.wordpress.org/pt-br:Padroes_de_Codificacao_do_WordPress))
+[Markdown语法说明 (zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/Markdown%E8%AF%AD%E6%B3%95%E8%AF%B4%E6%98%8E.md)
+
+---------------------------------
+
+[WordPress 代码规范 (zh-cn)](http://codex.wordpress.org/zh-cn:WordPress_%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83) (Languages: [English](http://codex.wordpress.org/WordPress_Coding_Standards) • [日本語](http://wpdocs.sourceforge.jp/WordPress_%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%9F%BA%E6%BA%96) • [Português do Brasil](http://codex.wordpress.org/pt-br:Padroes_de_Codificacao_do_WordPress))
 
 [Linux kernel coding style](http://lxr.linux.no/linux/Documentation/CodingStyle)
 
