@@ -22,6 +22,10 @@ HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/ht
 
 ---------------------------------
 
+[Github HTML and CSS code guide]https://github.com/mdo/code-guide
+
+---------------------------------
+
 [Oracle Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 
 ---------------------------------
