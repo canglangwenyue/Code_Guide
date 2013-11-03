@@ -59,3 +59,8 @@ WordPress 代码规范 (Languages: [English](http://codex.wordpress.org/WordPres
 [perlstyle](http://perldoc.perl.org/perlstyle.html)
 
 [GNU coding standards](http://www.gnu.org/prep/standards/)
+
+---------------------------------
+
+####Learn X in Y Minutes [en](https://github.com/adambard/learnxinyminutes-docs/) 
+/ [zh-cn](https://github.com/adambard/learnxinyminutes-docs/tree/master/zh-cn)
