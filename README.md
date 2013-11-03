@@ -62,5 +62,5 @@ WordPress 代码规范 (Languages: [English](http://codex.wordpress.org/WordPres
 
 ---------------------------------
 
-####Learn X in Y Minutes [en](https://github.com/adambard/learnxinyminutes-docs/) 
-/ [zh-cn](https://github.com/adambard/learnxinyminutes-docs/tree/master/zh-cn)
+####Learn X in Y Minutes 
+[en](https://github.com/adambard/learnxinyminutes-docs/) / [zh-cn](https://github.com/adambard/learnxinyminutes-docs/tree/master/zh-cn)
