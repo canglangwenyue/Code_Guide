@@ -24,6 +24,8 @@ HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/ht
 
 [Github HTML and CSS code guide](https://github.com/mdo/code-guide)
 
+Principles of writing consistent, idiomatic CSS [en](https://github.com/necolas/idiomatic-css) / [zh-cn](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-CN)(编写如一、符合习惯的CSS的原则)
+
 ---------------------------------
 
 [Oracle Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
