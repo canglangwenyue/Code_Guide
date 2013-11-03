@@ -22,7 +22,7 @@ HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/ht
 
 ---------------------------------
 
-[Github HTML and CSS code guide]https://github.com/mdo/code-guide
+[Github HTML and CSS code guide](https://github.com/mdo/code-guide)
 
 ---------------------------------
 
