@@ -20,6 +20,12 @@ HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/ht
 
 [Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
 
+[JSON Style Guide](http://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
+
+[Google's R Style Guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml)
+
+[Google XML Document Format Style Guide](http://google-styleguide.googlecode.com/svn/trunk/xmlstyle.html)
+
 ---------------------------------
 
 [Github HTML and CSS code guide](https://github.com/mdo/code-guide)
@@ -29,6 +35,10 @@ Principles of writing consistent, idiomatic CSS [en](https://github.com/necolas/
 ---------------------------------
 
 [Oracle Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
+
+[eclipse-java-google-style.xml](http://google-styleguide.googlecode.com/svn/trunk/eclipse-java-google-style.xml)
+
+[intellij-java-google-style.xml](http://google-styleguide.googlecode.com/svn/trunk/intellij-java-google-style.xml)
 
 ---------------------------------
 
