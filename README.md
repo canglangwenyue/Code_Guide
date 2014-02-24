@@ -3,6 +3,7 @@
 
 ####[google-styleguide](https://code.google.com/p/google-styleguide/)
 
+[Google Java Style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 
 [C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 
