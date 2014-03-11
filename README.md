@@ -33,6 +33,8 @@ HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/ht
 
 Principles of writing consistent, idiomatic CSS [en](https://github.com/necolas/idiomatic-css) / [zh-cn](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-CN)(编写如一、符合习惯的CSS的原则)
 
+[Hitchhiker's Guide to Python](https://github.com/kennethreitz/python-guide)
+
 ---------------------------------
 
 [Oracle Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
@@ -53,7 +55,6 @@ Principles of writing consistent, idiomatic CSS [en](https://github.com/necolas/
 
 [Python初学者](https://github.com/Yixiaohan/codeparkshare)
 
-[Hitchhiker's Guide to Python](https://github.com/kennethreitz/python-guide)
 ---------------------------------
 
 [通用 CSS 笔记、建议与指导 (zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/%E9%80%9A%E7%94%A8%20CSS%20%E7%AC%94%E8%AE%B0%E3%80%81%E5%BB%BA%E8%AE%AE%E4%B8%8E%E6%8C%87%E5%AF%BC.md)
