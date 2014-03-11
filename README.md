@@ -47,6 +47,14 @@ Principles of writing consistent, idiomatic CSS [en](https://github.com/necolas/
 
 ---------------------------------
 
+[前端技能汇总](https://github.com/JacksonTian/fks)
+
+[Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
+
+[Python初学者](https://github.com/Yixiaohan/codeparkshare)
+
+---------------------------------
+
 [通用 CSS 笔记、建议与指导 (zh-cn)](https://github.com/Suxiaogang/Code_Guide/blob/master/%E9%80%9A%E7%94%A8%20CSS%20%E7%AC%94%E8%AE%B0%E3%80%81%E5%BB%BA%E8%AE%AE%E4%B8%8E%E6%8C%87%E5%AF%BC.md)
 
 ---------------------------------
