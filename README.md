@@ -19,7 +19,7 @@ HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/ht
 
 [JavaScript Style Guide (zh-cn)](http://alloyteam.github.io/JX/doc/specification/google-javascript.xml) (via Tencent AlloyTeam)
 
-[Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
+[Google Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml) / [zh-CN](http://gclsg.lisp.tw)
 
 [JSON Style Guide](http://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
