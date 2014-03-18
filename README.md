@@ -21,6 +21,8 @@ HTML/CSS Style Guide : [en](http://google-styleguide.googlecode.com/svn/trunk/ht
 
 [Google's AngularJS Style Guide](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
 
+[angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide)
+
 [Google Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml) / [zh-CN](http://gclsg.lisp.tw)
 
 [JSON Style Guide](http://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
