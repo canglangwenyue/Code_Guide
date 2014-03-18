@@ -91,5 +91,12 @@ WordPress 代码规范 (Languages: [English](http://codex.wordpress.org/WordPres
 
 ---------------------------------
 
-####Learn X in Y Minutes 
+##Free Programming Books
+[en](https://github.com/vhf/free-programming-books) / 
+[zh-cn](https://github.com/justjavac/free-programming-books-zh_CN)
+
+
+---------------------------------
+
+##Learn X in Y Minutes 
 [en](https://github.com/adambard/learnxinyminutes-docs/) / [zh-cn](https://github.com/adambard/learnxinyminutes-docs/tree/master/zh-cn)
